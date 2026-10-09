@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+@theme {
+  /* Fondo principal ultra oscuro industrial */
+  --color-ieho-dark: #070b12;
+
+  /* Azul hidráulico (el chorro de agua del logo) */
+  --color-ieho-blue: #0284c7;
+  --color-ieho-blue-light: #38bdf8;
+
+  /* Verde lima eléctrico (el rayo y bordes del logo) */
+  --color-ieho-green: #84cc16;
+  --color-ieho-green-hover: #a3e635;
+
+  /* Metálico / Acero (las letras de IEHO) */
+  --color-ieho-silver: #e2e8f0;
+  --color-ieho-muted: #94a3b8;
+}
